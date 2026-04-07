@@ -4,8 +4,8 @@
 
 
 <p align="center">
-  <img src="<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/799b891b-40b0-4385-81c1-8b2b1e0239e6" />
-" />
+  <img src="<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/e7b6e2c7-9512-4720-b1ff-949fcdc6698a" />
+
 </p>
 
 <h1 align="center">Saumya Singh</h1>
