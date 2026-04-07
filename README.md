@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7CF7FF&size=28&center=true&vCenter=true&width=600&lines=Aspiring+Developer;+Full+Stack+Developer+DSA +Student+ Machine learnig + Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7CF7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Saumya+Singh;Full+Stack+Developer;DSA+Learner;Future+AI/ML+Engineer" />
 </p>
 
+
 <p align="center">
-  <img src="YOUR_BANNER_LINK" />
+  <img src="<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/799b891b-40b0-4385-81c1-8b2b1e0239e6" />
+" />
 </p>
 
 <h1 align="center">Saumya Singh</h1>
-<h3 align="center">🚀 Aspiring Software Developer</h3>
+<h3 align="center"> Aspiring Software Developer</h3>
 
 
 ---
