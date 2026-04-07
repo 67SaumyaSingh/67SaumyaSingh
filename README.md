@@ -1,6 +1,14 @@
-# Hi 👋, I'm Saumya Singh
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7CF7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Saumya+Singh;Aspiring+Developer;Future+Full+Stack+Engineer" />
+</p>
 
-###  Aspiring Software Developer | Future Full Stack Developer
+<p align="center">
+  <img src="YOUR_BANNER_LINK" />
+</p>
+
+<h1 align="center">Saumya Singh</h1>
+<h3 align="center">🚀 Aspiring Software Developer</h3>
+
 
 ---
 
