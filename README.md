@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=#744EC2&size=28&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer;Frontend+Developer;DSA+Learner;Future+AI/ML+Engineer" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7CF7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Saumya+Singh;Full+Stack+Developer;DSA+Learner;Future+AI/ML+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=#744EC2&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Saumya+Singh;Full+Stack+Developer;DSA+Learner;Future+AI/ML+Engineer" />
 </p>
 
 <h3 align="center"> Aspiring Software Developer</h3>
