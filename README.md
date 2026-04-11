@@ -7,15 +7,15 @@
 </p>
 
 ---
-
 <h2 align="center">💜 About Me</h2>
 
-<p align="center">
-🎓 B.Tech CSE Student <br>
-📚 Learning <b>DSA + Web Development</b> <br>
-💻 Exploring <b>Frontend (React, JavaScript)</b> <br>
-🎯 Goal: <b>Full Stack Developer</b> <br>
-🚀 Passionate about coding & problem solving
+## 👩‍💻 About Me
+- 🎓 B.Tech CSE Student  
+- 📚 Learning **DSA + Web Development**  
+- 💻 Exploring **Frontend (React, JavaScript)**  
+- 🎯 Goal: **Full Stack Developer**  
+- 🚀 Passionate about coding & problem solving  
+
 </p>
 
 ---
