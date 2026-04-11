@@ -1,4 +1,11 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Saumya%20Singh&fontSize=40&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer;Frontend+Developer;DSA+Learner;Future+AI/ML+Engineer" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=7CF7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Saumya+Singh;Full+Stack+Developer;DSA+Learner;Future+AI/ML+Engineer" />
 </p>
 
