@@ -7,7 +7,6 @@
 </p>
 
 ---
-<h2 align="center">💜 About Me</h2>
 
 ## 👩‍💻 About Me
 - 🎓 B.Tech CSE Student  
