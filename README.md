@@ -8,12 +8,12 @@
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 B.Tech CSE Student  
-- 📚 Learning **DSA + Web Development**  
-- 💻 Exploring **Frontend (React, JavaScript)**  
-- 🎯 Goal: **Full Stack Developer**  
-- 🚀 Passionate about coding & problem solving  
+##  About Me
+-  B.Tech CSE Student  
+-  Learning **DSA + Web Development**  
+-  Exploring **Frontend (React, JavaScript)**  
+-  Goal: **Full Stack Developer**  
+-  Passionate about coding & problem solving  
 
 </p>
 
@@ -39,7 +39,7 @@
 
 ---
 
-<h2 align="center">🔥 Contribution Graph</h2>
+<h2 align="center"> Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=67SaumyaSingh&bg_color=0d1117&color=9D4EDD&line=9D4EDD&point=ffffff&hide_border=true" />
@@ -71,5 +71,5 @@
 <h2 align="center">💡 Quote</h2>
 
 <p align="center">
-  <i>"Stay consistent, success will follow 💜"</i>
+  <i>"Stay consistent, success will follow "</i>
 </p>
