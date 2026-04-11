@@ -10,10 +10,7 @@
 </p>
 
 
-<p align="center">
-  <img src="<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/e7b6e2c7-9512-4720-b1ff-949fcdc6698a" />
 
-</p>
 
 <h1 align="center">Saumya Singh</h1>
 <h3 align="center"> Aspiring Software Developer</h3>
