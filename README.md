@@ -50,7 +50,8 @@
 <tr>
 <td width="50%">
 
-<h3>📱 <a href="https://github.com/67SaumyaSingh/sms-detection">SMS Spam Detection System</a></h3>
+<h3> <a href="https://github.com/67SaumyaSingh/sms-detection">SMS Spam Detection System</a></h3>
+<hr>
 
 <b>Tech:</b> Python, Machine Learning, NLP  
 
@@ -95,5 +96,5 @@
 <h2 align="center"> Quote</h2>
 
 <p align="center">
-  <i>"Consistency and practice turns beginner into developer "</i>
+  <i><b>"Consistency and practice turns beginner into developer "</b></i>
 </p>
