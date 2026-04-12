@@ -44,6 +44,24 @@
 </p>
 
 ---
+<h2 align="center">🚀 Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 SMS Spam Detection  
+- 🔍 Detects spam vs real messages  
+- 🧠 Machine Learning based model  
+- 💻 Python, NLP  
+
+🔗 <a href="https://github.com/67SaumyaSingh/sms-detection">View Project</a>
+
+</td>
+</tr>
+</table>
+
+---
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
