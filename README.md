@@ -44,18 +44,35 @@
 </p>
 
 ---
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%">
 
-### 📱 SMS Spam Detection  
-- 🔍 Detects spam vs real messages  
-- 🧠 Machine Learning based model  
-- 💻 Python, NLP  
+<h3>📱 <a href="https://github.com/67SaumyaSingh/sms-detection">SMS Spam Detection</a></h3>
 
-🔗 <a href="https://github.com/67SaumyaSingh/sms-detection">View Project</a>
+<b>Tech:</b> Python, ML, NLP  
+
+<ul>
+<li>Spam detection using ML</li>
+<li>Text preprocessing</li>
+<li>Classification model</li>
+</ul>
+
+</td>
+
+<td width="50%">
+
+<h3>🌐 <a href="#">Your Next Project</a></h3>
+
+<b>Tech:</b> React, JavaScript  
+
+<ul>
+<li>Add your project details</li>
+<li>Features here</li>
+<li>Make it attractive</li>
+</ul>
 
 </td>
 </tr>
