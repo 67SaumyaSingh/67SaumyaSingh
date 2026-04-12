@@ -50,14 +50,17 @@
 <tr>
 <td width="50%">
 
-<h3>📱 <a href="https://github.com/67SaumyaSingh/sms-detection">SMS Spam Detection</a></h3>
+<h3>📱 <a href="https://github.com/67SaumyaSingh/sms-detection">SMS Spam Detection System</a></h3>
 
-<b>Tech:</b> Python, ML, NLP  
+<b>Tech:</b> Python, Machine Learning, NLP  
 
 <ul>
-<li>Spam detection using ML</li>
-<li>Text preprocessing</li>
-<li>Classification model</li>
+<li> Developed a machine learning model to classify SMS messages as <b>Spam</b> or <b>Ham (Not Spam)</b></li>
+<li> Performed text preprocessing including tokenization, stopword removal, and stemming</li>
+<li> Converted text data into numerical features using <b>TF-IDF Vectorization</b></li>
+<li> Implemented classification algorithms such as <b>Naive Bayes / Logistic Regression</b></li>
+<li> Achieved high accuracy on test data with efficient model performance</li>
+<li> Built a simple and user-friendly system for real-time message prediction</li>
 </ul>
 
 </td>
