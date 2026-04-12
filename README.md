@@ -27,7 +27,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"> GitHub Stats</h2>
 
 
 
@@ -44,7 +44,7 @@
 </p>
 
 ---
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center"> Featured Projects</h2>
 
 <table>
 <tr>
@@ -62,25 +62,13 @@
 
 </td>
 
-<td width="50%">
 
-<h3>🌐 <a href="#">Your Next Project</a></h3>
-
-<b>Tech:</b> React, JavaScript  
-
-<ul>
-<li>Add your project details</li>
-<li>Features here</li>
-<li>Make it attractive</li>
-</ul>
-
-</td>
 </tr>
 </table>
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -88,7 +76,7 @@
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center"> Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saumya-singh-53468032a">
@@ -101,8 +89,8 @@
 
 ---
 
-<h2 align="center">💡 Quote</h2>
+<h2 align="center"> Quote</h2>
 
 <p align="center">
-  <i>"Stay consistent, success will follow "</i>
+  <i>"Consistency and practice turns beginner into developer "</i>
 </p>
