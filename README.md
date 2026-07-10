@@ -75,7 +75,7 @@
 <tr>
 <td width="50%">
 
-<h3> <a href="https://github.com/Saumya-Singh7/sms-detection">SMS Spam Detection System</a></h3>
+<h3> <a href="https://github.com/Saumya-Singh7/Hotel-Listing">SMS Spam Detection System</a></h3>
 <hr>
 
 <b>Tech:</b> Python, Machine Learning, NLP  
