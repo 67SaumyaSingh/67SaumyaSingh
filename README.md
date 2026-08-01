@@ -8,7 +8,7 @@
 
 ---
 
-##  About Me
+<h2 align="center"> About Me</h2>
 -  B.Tech CSE Student  
 -  Learning **DSA + Web Development**  
 -  Exploring **Frontend (React, JavaScript)**  
