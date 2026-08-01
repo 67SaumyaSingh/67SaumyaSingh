@@ -24,7 +24,7 @@
 <p align="center">
 
 ### 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,intellij,mysql,mongodb,postman)
 
  
 </p>
