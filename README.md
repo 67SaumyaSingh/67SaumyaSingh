@@ -8,15 +8,15 @@
 
 ---
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <p align="center">
-🎓 B.Tech Computer Science student at APJ Abdul Kalam Technical University<br>
-💡 Currently learning Data Structures & Algorithms and Web Development<br>
-🌐 Exploring Frontend (React, JavaScript, Tailwind) and Backend (Node.js, Express)<br>
-🚀 Aspiring Full‑Stack Developer passionate about building creative and scalable web apps<br>
-❤️ Love solving problems and learning new technologies
+I’m <strong>Saumya Singh</strong>, a Computer Science undergraduate at <strong>APJ Abdul Kalam Technical University</strong> with a strong foundation in software development and problem‑solving.<br><br>
+Currently focusing on <strong>Data Structures & Algorithms</strong> and <strong>Full‑Stack Web Development</strong>, I enjoy building scalable, user‑centric applications using modern technologies like <strong>React, Tailwind CSS, Node.js, Express, and MongoDB</strong>.<br><br>
+My goal is to grow into a <strong>Full‑Stack Developer</strong> capable of designing efficient systems and delivering impactful digital experiences.<br><br>
+I’m passionate about continuous learning, clean code, and leveraging technology to solve real‑world challenges.
 </p>
+
 
 
 ---
