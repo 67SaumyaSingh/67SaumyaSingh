@@ -22,8 +22,10 @@
 <h2 align="center"> Tech Stack</h2>
 
 <p align="center">
- ### 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode)](https://skillicons.dev)
+
+### 🛠 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode)
+
  
 </p>
 
