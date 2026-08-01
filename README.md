@@ -8,14 +8,16 @@
 
 ---
 
-<h2 align="center"> About Me</h2>
--  B.Tech CSE Student  
--  Learning DSA + Web Development 
--  Exploring Frontend (React, JavaScript, Tailwind) and Backend (NodeJs)
--  Goal: **Full Stack Developer**  
--  Passionate about coding & problem solving  
+<h2 align="center">👩‍💻 About Me</h2>
 
+<p align="center">
+🎓 B.Tech Computer Science student at APJ Abdul Kalam Technical University<br>
+💡 Currently learning Data Structures & Algorithms and Web Development<br>
+🌐 Exploring Frontend (React, JavaScript, Tailwind) and Backend (Node.js, Express)<br>
+🚀 Aspiring Full‑Stack Developer passionate about building creative and scalable web apps<br>
+❤️ Love solving problems and learning new technologies
 </p>
+
 
 ---
 
