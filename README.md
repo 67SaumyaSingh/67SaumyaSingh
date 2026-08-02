@@ -77,31 +77,7 @@ I’m passionate about continuous learning, clean code, and leveraging technolog
 </table>
 ---
 
-<table>
-<tr>
-<td width="50%">
 
-<h3> <a href="https://github.com/Saumya-Singh7/Hotel-Listing">SMS Spam Detection System</a></h3>
-<hr>
-
-<b>Tech:</b> Python, Machine Learning, NLP  
-
-<ul>
-<li> Developed a machine learning model to classify SMS messages as <b>Spam</b> or <b>Ham (Not Spam)</b></li>
-<li>Fetched hotel data dynamically from <a href="https://demohotelsapi.pythonanywhere.com/">Hotels API</a></li>
-  <li>Displayed hotel names, locations, and images using API responses</li>
-  <li>Implemented asynchronous data fetching with JavaScript for real-time updates</li>
-  <li>Designed a clean and responsive layout for hotel listings</li>
-</ul>
-
-</td>
-
-
-</tr>
-</table>
-
-
----
 
 <h2 align="center">Contribution Snake</h2>
 
